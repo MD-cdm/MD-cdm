@@ -1,4 +1,4 @@
-![dashboard (2)](https://github.com/user-attachments/assets/5f8e44eb-2bd8-469c-8e9f-3db48d84db35)
+ ![dashboard (3)](https://github.com/user-attachments/assets/f7a9df4a-d022-44d0-9cfc-d52e868a0d55)
 <h1 align="center">Hi 👋, I'm Md Neyaz</h1>
 <h3 align="center">A passionate frontend developer,MERN stack devloper from India</h3>
 <img align="right" alt = "coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
