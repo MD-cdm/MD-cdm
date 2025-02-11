@@ -12,7 +12,7 @@
 - 📫 How to reach me *mdneyaz130012@gmail.com*
 
 - 📄 Know about my experiences [https://ivory-caty-92.tiiny.site](https://ivory-caty-92.tiiny.site)
-- 📖 Portfolio:  [https://leafy-moxie-80b5c3.netlify.app](https://leafy-moxie-80b5c3.netlify.app)
+- 📖 *Portfolio*: [leafy-moxie-80b5c3.netlify.app](https://leafy-moxie-80b5c3.netlify.app)
 
 - ⚡ Fun fact *I am funny😊*
 
